@@ -11,6 +11,7 @@ https://github.com/bianyafeng/nervos-simple-dapp
 
 Deployed contract address: 0x1658c474BF76711cbc5EB476d229DEa12c4aB6b7
 Deploy transaction hash: 0xb0582b171680d1a998c014a515c7b5ea0f7ebfd445388a6a665a956c6c3f7c2f
+
  "abi":
  
     [
