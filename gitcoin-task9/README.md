@@ -8,4 +8,4 @@ The Ethereum address that you've used for your Layer 2 account (in text format).
 
 The Nervos Layer 1 address that you passed to withdraw command (in text format).
 
-ckb1qyqpn5l3le6j9k4kzfzp22lfnqhcmxpkjlcszj2233
+ckt1qyqrusd4xxq4lz39ehzzdwe8w37caxjt94lq295v0j
